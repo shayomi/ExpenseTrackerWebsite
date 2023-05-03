@@ -4,7 +4,7 @@ This expense tracker website was created using advanced level React Js to show t
 in managing states. Every folder contains crucial files with JS extensions, CSS extensions.
 The expense tracker can be used to store expenses and monitor the flow using animated charts.
 
-## Table of Content
+## Table of Content  
 
   - Title and description
   - Table of content
