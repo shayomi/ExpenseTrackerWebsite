@@ -31,7 +31,7 @@ Download the root folder and run 'npm install' in your terminal at the root fold
 location
 
 When all necessary doms and libraries have been installed, run 'npm start' in your terminal 
-
+ 
 
 ## Troubleshooting and FAQ
 
